@@ -1,0 +1,40 @@
+Bubble Sort, n = 1000, Time taken = 0.002000
+Merge Sort, n = 1000, Time taken = 0.000000
+Selection Sort, n = 1000, Time taken = 0.001000
+
+Bubble Sort, n = 2000, Time taken = 0.007000
+Merge Sort, n = 2000, Time taken = 0.000000
+Selection Sort, n = 2000, Time taken = 0.004000
+
+Bubble Sort, n = 3000, Time taken = 0.015000
+Merge Sort, n = 3000, Time taken = 0.000000
+Selection Sort, n = 3000, Time taken = 0.008000
+
+Bubble Sort, n = 4000, Time taken = 0.029000
+Merge Sort, n = 4000, Time taken = 0.000000
+Selection Sort, n = 4000, Time taken = 0.014000
+
+Bubble Sort, n = 5000, Time taken = 0.043000
+Merge Sort, n = 5000, Time taken = 0.001000
+Selection Sort, n = 5000, Time taken = 0.022000
+
+Bubble Sort, n = 6000, Time taken = 0.053000
+Merge Sort, n = 6000, Time taken = 0.001000
+Selection Sort, n = 6000, Time taken = 0.032000
+
+Bubble Sort, n = 7000, Time taken = 0.068000
+Merge Sort, n = 7000, Time taken = 0.001000
+Selection Sort, n = 7000, Time taken = 0.044000
+
+Bubble Sort, n = 8000, Time taken = 0.084000
+Merge Sort, n = 8000, Time taken = 0.001000
+Selection Sort, n = 8000, Time taken = 0.057000
+
+Bubble Sort, n = 9000, Time taken = 0.103000
+Merge Sort, n = 9000, Time taken = 0.001000
+Selection Sort, n = 9000, Time taken = 0.072000
+
+Bubble Sort, n = 10000, Time taken = 0.120000
+Merge Sort, n = 10000, Time taken = 0.001000
+Selection Sort, n = 10000, Time taken = 0.091000
+
